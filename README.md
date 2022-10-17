@@ -3,7 +3,7 @@
 <br>
 <br>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanAAB&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=IanAAB&show_icons=true&theme=radical)
 
 
 
