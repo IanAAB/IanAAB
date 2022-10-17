@@ -6,6 +6,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanAAB&show_icons=true&theme=default)
 <br>
 <br>
+<a href="https://www.linkedin.com/in/ian-alexander-amaral-belivuk-b9449a231/">
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <br>
