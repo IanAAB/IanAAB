@@ -10,6 +10,7 @@
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 <br>
+<a href="https://stackoverflow.com/users/20344221/ian">
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ![snake gif](https://github.com/IanAAB/IanAAB/blob/output/github-contribution-grid-snake.gif)
